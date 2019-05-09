@@ -1,0 +1,14 @@
+name: jnote
+channels:
+  - javascript
+  - conda-forge
+  - pytorch
+dependencies:
+  - python=3.6
+  - numpy
+  - pandas
+  - pytorch
+  - scikit-learn
+  - jupyter
+  - ipython
+  - ipykernel
